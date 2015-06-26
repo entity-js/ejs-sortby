@@ -1,0 +1,14 @@
+{
+  "name": "eJS - sortBy",
+  "description": "Provides 'sortBy' utility.",
+  "keywords": [
+    "EntityJS - Utilities",
+    "Sorting"
+  ],
+  "author": "Orgun109uk <orgun109uk@gmail.com> (http://my-site.com/)",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/entity-js/ejs-sortby.git"
+  }
+}
