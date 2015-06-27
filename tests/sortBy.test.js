@@ -17,7 +17,7 @@ describe('ejs/sortBy', function () {
 
   'use strict';
 
-  var sortBy = require('../');
+  var sortBy = require('../lib');
 
   describe('sortBy([Array])', function () {
 

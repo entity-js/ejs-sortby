@@ -12,6 +12,6 @@
     "url": "git://github.com/entity-js/ejs-sortby.git"
   },
   "scripts": {
-    "test": "mocha ./lib/tests/"
+    "test": "mocha ./tests/"
   }
 }
