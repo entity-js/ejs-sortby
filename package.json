@@ -1,5 +1,5 @@
 {
-  "name": "eJS - sortBy",
+  "name": "ejs-sortby",
   "description": "Provides 'sortBy' utility.",
   "keywords": [
     "EntityJS - Utilities",
@@ -10,5 +10,8 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/entity-js/ejs-sortby.git"
+  },
+  "scripts": {
+    "test": "mocha ./lib/tests/"
   }
 }
